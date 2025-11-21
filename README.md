@@ -11,7 +11,7 @@ $$101100111111100101$$
 
 ## Etapa 3 – Impacto do Ruído na Comunicação
 
-* **(a) Limite de Erro:** Os primeiros erros apareceram em um nível de **SNR de $ -32 \text{ dB}$**.
+* **(a) Limite de Erro:** Os primeiros erros apareceram em um nível de **SNR de  -32 dB**.
 * **(b) Corrupção Completa:** Não houve nível de SNR testado em que todos os bits da mensagem foram corrompidos.
 
 ### Gráfico da Quantidade de Erros por SNR
